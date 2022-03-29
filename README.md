@@ -8,6 +8,7 @@ Market segmentation is a decision-making tool for the marketing manager in the c
 We collected the segment wise data. We collected from government of India website .<br>
 https://nhm.gov.in  <br>
 https://data.gov.in <br>
+https://www.trai.gov.in <br>
 •	Indian state wise vitamin deficiency <br>
 Deficiency of vitamins is given by state wise and the population count is given.<br>
 •	Indian Population state wise <br>
@@ -15,3 +16,6 @@ Deficiency of vitamins is given by state wise and the population count is given.
 •	Literacy Rate Across India<br>
 The data in this CSV file contains the data from the Govt. Of India website, regarding the literacy rate of the 35 states and union territories.
 There are 3 key fields, literacy rate overall, literacy rate urban and literacy rate rural.<br>
+
+## conclusion 
+

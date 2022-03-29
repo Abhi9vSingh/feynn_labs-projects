@@ -17,5 +17,15 @@ Deficiency of vitamins is given by state wise and the population count is given.
 The data in this CSV file contains the data from the Govt. Of India website, regarding the literacy rate of the 35 states and union territories.
 There are 3 key fields, literacy rate overall, literacy rate urban and literacy rate rural.<br>
 
-## conclusion 
+## Recommendations based on our EDA
+
+So the highest litacy score in urban area Goa,Mizoram,kerala.<br>
+So there are many states which can be selected for our start up to launch their services in solely based on population count.
+Most likely more business will be genereted from states like :
+Rajasthan Uttarpradesh Bihar West Bengal Madhya Pradesh Maharastra Andhar Pradesh
+Note :- These are states with population greater than 10 Millions and this does not visualize whole scenario it is just a speculation based on Total population count of the above given states.
+</br>
+for vitamin deiciancy 
+Gujarat, Rajasthan, Bihar and Uttar Pradesh are prominent areas to setup our
+business.
 

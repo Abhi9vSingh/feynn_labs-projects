@@ -2,6 +2,7 @@
 
 ## Analyze Medical Market in India with respect Bio-Tech Startup going to launch its Home Checkup Service with Online Booking offering for B.P. , Diabetes & Vitamins   
 
+###### Large Scale Market Segmentation
 Market segmentation is a decision-making tool for the marketing manager in the crucial task of selecting a target market. In the Healthcare industry, a company willing to offer different services to different target audiences will lead to the sustainable growth of the company.
 
 # Data soures
